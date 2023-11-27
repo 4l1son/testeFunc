@@ -6,3 +6,4 @@ function teste(numero) {
 
 const resultado = teste(10);
 console.log(resultado);
+module.exports = { teste };
